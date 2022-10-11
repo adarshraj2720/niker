@@ -1,0 +1,77 @@
+{
+    "products":[
+        {
+            "productName":"Nike Air Max Flyknit Racer",
+            "productImage":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/c2deb3da-1553-4988-8ae2-c086c12017c8/air-max-flyknit-racer-shoes-Q9lN71.png",
+            "price":"₹ 9995.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Jordan Delta 2 x CLOT",
+            "productImage":"https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/dcba85eb-af2b-4c41-96b2-004b63abc258/jordan-delta-2-x-clot-flint-do2155-100-release-date.jpg",
+            "price":"₹ 8549.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Air Max 270",
+            "productImage":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/786a408c-6bbc-4454-be20-83931848d7f9/air-max-270-shoes-2V5C4p.png",
+            "price":"₹ 8190.0",
+            "tag": ""
+        },
+        {
+            "productName":"Nike Venture Runner",
+            "productImage":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/d71405e6-4a7a-460f-8d4a-13f34413b436/venture-runner-shoe-mT8r8R.png",
+            "price":"₹ 5641.0" ,
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Air Max 97",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/23d6e455-011d-4625-a5e9-cde8b3643438/air-max-97-shoes-F3zQb2.png",
+            "price":"₹ 13995.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Court Legacy Next Nature",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f1f272c7-7c79-4fab-9d11-cdf96b67e0cf/court-legacy-next-nature-shoes-rdTfqH.png",
+            "price":"₹ 154864.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Court Vision Low ",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e11c1031-e3f3-4dcf-9ec1-ab8d0c543bf0/court-vision-low-shoes-41zCWb.png",
+            "price":"₹ 5624.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Court Vision Mid",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/05e86260-3b4b-4c21-9221-7b440c219ff4/court-vision-mid-shoe-BRbtzJ.png",
+            "price":"₹ 4595.0" ,
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Daybreak",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d3a4c6c9-8303-4733-b6a3-d17c00cf8dab/daybreak-shoes-bs1J78.png",
+            "price":"₹ 6581.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Run Swift 2",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/860289af-e58d-4906-8140-947ff402e84c/run-swift-2-road-running-shoes-QWv4qw.png",
+            "price":"₹ 3259.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Air Force 1",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1a58b800-e514-40d3-88eb-aec2e8b09255/air-force-1-older-shoes-w6PsF3.png",
+            "price":"₹ 7560.0",
+            "tag":"NEW"
+        },
+        {
+            "productName":"Nike Blazer Mid '77 SE Dance",
+            "productImage":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4bc93fee-de2d-4e84-a8cc-b423818a0a96/blazer-mid-77-se-dance-older-shoes-xw58fm.png",
+            "price":"₹ 3259.0" ,
+            "tag":"NEW"
+        }
+
+    ]
+}
